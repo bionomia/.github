@@ -1,5 +1,3 @@
-# Bionomia
-
 ![image](https://github.com/bionomia/bionomia/blob/master/public/images/banner.jpg)
 
 Bionomia is a web application that lives at https://bionomia.net. Data about natural history specimens are periodically refreshed from the Global Biodiversity Information Facility from an avro-based download, processed using Apache Spark and sidekiq, then presented for ORCID-based OAuth2-authenticated people to claim or attribute to others with an ORCID or a wikidata Q number.
